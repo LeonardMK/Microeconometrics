@@ -1,0 +1,19 @@
+name: student_project
+
+channels:
+- conda
+- r
+
+dependencies:
+- numpy
+- pandas
+- pandas 
+- jupyterlab
+- matplotlib
+- scipy
+- statsmodels
+- r-essentials
+- r-DiagrammeR
+- r-AER
+- pip:
+  - grmpy

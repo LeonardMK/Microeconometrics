@@ -1,0 +1,11 @@
+Regressors,1,2,3,4,5,6
+Shock,0.95 ,0.94 ,0.89 ,1.3 *,1.29 ,1.24 
+ ,(0.78),(0.78),(0.78),(0.79),(0.8),(0.8)
+Shock x Always DW,,,,-1.75 *,-1.74 *,-1.75 *
+ ,,,,(1.0),(0.99),(0.99)
+Always DW,,,,2.12 **,2.27 ***,2.28 ***
+ ,,,,(0.83),(0.86),(0.86)
+R2,0.08,0.09,0.09,0.09,0.1,0.1
+Time controls,Day,Day,Shock x Day,Day,Day,Shock x Day
+Fixed effects,No,District,District,No,District,District
+Observations,12810,12810,12810,12810,12810,12810

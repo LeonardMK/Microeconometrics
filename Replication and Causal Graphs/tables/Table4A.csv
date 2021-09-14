@@ -1,0 +1,11 @@
+Regressors,1,2,3,4,5,6
+Shock,-78.31 *,-78.43 *,-75.9 *,-81.76 **,-82.18 **,-79.87 **
+ ,(39.96),(40.34),(40.13),(40.31),(40.72),(40.64)
+Shock x Always PR,,,,15.44 ,16.64 ,17.58 
+ ,,,,(50.5),(49.87),(49.43)
+Always PR,,,,-35.29 ,-33.19 ,-33.58 
+ ,,,,(33.91),(34.88),(34.78)
+R2,0.04,0.05,0.05,0.04,0.05,0.05
+Time controls,Day,Day,Shock x Day,Day,Day,Shock x Day
+Fixed effects,No,District,District,No,District,District
+Observations,7076,7076,7076,7076,7076,7076
